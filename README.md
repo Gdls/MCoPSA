@@ -9,7 +9,7 @@ More details about the underneath model can be found in the submitted paper.
 If you use any of the resources listed here, please cite:<br>
 ```
 @inproceedings{liu-etal-2024-MCoPSA,
-    title = "Leveraging Capsule Routing to Associate Knowledge with Medical Literature Hierarchically",
+    title = "A Lifelong Multilingual Multi-granularity Semantic Alignment Approach via Maximum Co-occurrence Probabilit",
     author = "Liu, Xin  and
       Sun, Hongwei and
       Dai, Shaojie and
